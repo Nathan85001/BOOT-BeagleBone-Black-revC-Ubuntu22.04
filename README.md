@@ -27,9 +27,9 @@ by ending the previous steps your SD card would be ready to esstablishing bootin
 
 3. Now PC would read the new partitions of cd card, so open BOOT partition and open terminal
 
-![BOOT_Term_1](Images/Screenshot from 2023-10-30 14-12-52.png)
+![BOOT_Term_1](Images/Screenshotfrom2023-10-3014-12-52.png)
 
-![BOOT_Term_2](Images/Screenshot from 2023-10-30 14-14-34.png)
+![BOOT_Term_2](Images/Screenshotfrom2023-10-3014-14-34.png)
 
 
 then download the following MLO & u-boot.img using those bash script
@@ -97,8 +97,8 @@ ping google.com
 
 - Unplug your board.
 
-![HARDWARE_1](Images/Screenshot from 2023-10-30 20-53-18.png)
+![HARDWARE_1](Images/Screenshotfrom2023-10-3020-53-18.png)
 
-![HARDWARE_2](Images/Screenshot from 2023-10-30 20-53-32.png)
+![HARDWARE_2](Images/Screenshotfrom2023-10-3020-53-32.png)
 
 
