@@ -64,7 +64,7 @@ xz -d am335x-ubuntu-22.04.3-console-armhf-2023-10-26-4gb.img.xz
 lsblk 
 
 ```
-![BOOT_Term_3](Images/Screenshot from 2023-10-30 15-38-37.png)
+![BOOT_Term_3](Images/Screenshotfrom2023-10-3015-38-37.png)
 
 note it may be different at your pc so check it.
 Now, we can flash our SD card
