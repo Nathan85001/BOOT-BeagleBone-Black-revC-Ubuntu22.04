@@ -29,7 +29,7 @@ by ending the previous steps your SD card would be ready to esstablishing bootin
 
 ![BOOT_Term_1](Images/Screenshotfrom2023-10-3014-12-52.png)
 
-![BOOT_Term_2](Images/Screenshotfrom2023-10-3014-14-34.png)
+![BOOT_Term_2](Images/Screenshotfrom202310-3014-14-34.png)
 
 
 then download the following MLO & u-boot.img using those bash script
