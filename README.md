@@ -19,17 +19,17 @@ Before you begin, ensure you have the following:
 
 2. open it and do as the following : 
 
-![gparted_1](/home/nathan/REPOs/BOOT-BeagleBone-Black-revC-Ubuntu22.04/BOOT-BeagleBone-Black-revC-Ubuntu22.04/Images/ezgif.com-video-to-gif.gif)
+![gparted_1](Images/ezgif.com-video-to-gif.gif)
 
-![gparted_2](/home/nathan/REPOs/BOOT-BeagleBone-Black-revC-Ubuntu22.04/BOOT-BeagleBone-Black-revC-Ubuntu22.04/Images/ezgif.com-video-to-gif_1.gif)
+![gparted_2](Images/ezgif.com-video-to-gif_1.gif)
 
 by ending the previous steps your SD card would be ready to esstablishing booting files
 
 3. Now PC would read the new partitions of cd card, so open BOOT partition and open terminal
 
-![BOOT_Term_1](/home/nathan/REPOs/BOOT-BeagleBone-Black-revC-Ubuntu22.04/BOOT-BeagleBone-Black-revC-Ubuntu22.04/Images/Screenshot from 2023-10-30 14-12-52.png)
+![BOOT_Term_1](Images/Screenshot from 2023-10-30 14-12-52.png)
 
-![BOOT_Term_2](/home/nathan/REPOs/BOOT-BeagleBone-Black-revC-Ubuntu22.04/BOOT-BeagleBone-Black-revC-Ubuntu22.04/Images/Screenshot from 2023-10-30 14-14-34.png)
+![BOOT_Term_2](Images/Screenshot from 2023-10-30 14-14-34.png)
 
 
 then download the following MLO & u-boot.img using those bash script
@@ -64,7 +64,7 @@ xz -d am335x-ubuntu-22.04.3-console-armhf-2023-10-26-4gb.img.xz
 lsblk 
 
 ```
-![BOOT_Term_3](/home/nathan/REPOs/BOOT-BeagleBone-Black-revC-Ubuntu22.04/BOOT-BeagleBone-Black-revC-Ubuntu22.04/Images/Screenshot from 2023-10-30 15-38-37.png)
+![BOOT_Term_3](Images/Screenshot from 2023-10-30 15-38-37.png)
 
 note it may be different at your pc so check it.
 Now, we can flash our SD card
@@ -97,9 +97,8 @@ ping google.com
 
 - Unplug your board.
 
-![HARDWARE_1](/home/nathan/REPOs/BOOT-BeagleBone-Black-revC-Ubuntu22.04/BOOT-BeagleBone-Black-revC-Ubuntu22.04/Images/Screenshot from 2023-10-30 20-53-18.png)
+![HARDWARE_1](Images/Screenshot from 2023-10-30 20-53-18.png)
 
-![HARDWARE_2](/home/nathan/REPOs/BOOT-BeagleBone-Black-revC-Ubuntu22.04/BOOT-BeagleBone-Black-revC-Ubuntu22.04/Images/Screenshot from 2023-10-30 20-53-32.png)
-
+![HARDWARE_2](Images/Screenshot from 2023-10-30 20-53-32.png)
 
 
