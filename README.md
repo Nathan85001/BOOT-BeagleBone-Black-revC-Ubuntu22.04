@@ -1,4 +1,4 @@
-### BeagleBone Black Ubuntu 22.04 BOOT
+# BeagleBone Black Ubuntu 22.04 BOOT
 
 This repository contains instructions and scripts for setting up a BeagleBone Black (rev C) with Ubuntu 22.04. Follow these steps to get your BeagleBone Black up and running with the latest version of Ubuntu.
 
@@ -73,7 +73,7 @@ Now, we can flash our SD card
 sudo dd if=~/Downloads/am335x-ubuntu-22.04.3-console-armhf-2023-10-26-4gb.img of=/dev/sda2 bs=1M
 
 ```
-# Note: Flashing would take several minitues, so be patient please.
+### Note: Flashing would take several minitues, so be patient please.
 now, You can take off Sd card
 
 7. Connect BeagleBone with Ethernet cable to your router and the mini-USB to PC,
