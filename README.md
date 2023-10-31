@@ -1,8 +1,8 @@
-## BeagleBone Black Ubuntu 22.04 BOOT
+### BeagleBone Black Ubuntu 22.04 BOOT
 
 This repository contains instructions and scripts for setting up a BeagleBone Black (rev C) with Ubuntu 22.04. Follow these steps to get your BeagleBone Black up and running with the latest version of Ubuntu.
 
-### Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following:
 
@@ -13,7 +13,7 @@ Before you begin, ensure you have the following:
 - A mini-USB cable which is included with BeagleBone box
 - A Ethernet cable
 
-### Preparing SD card
+## Preparing SD card
 
 1. Download gparted APP from ubuntu software
 
